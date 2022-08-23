@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🌱 I’m currently learning **React Native and Typescript**
 
