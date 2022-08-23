@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN, PERN**
 
-- 📫 How to reach me on linkedIn &nbsp; [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiaqingxu2011/) &nbsp;  
+- 📫 You can reach me on linkedIn &nbsp; [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiaqingxu2011/) &nbsp;  
 
 
 ---
