@@ -9,6 +9,7 @@
   </a>
 </div>
 
+<br />
 <img align="right" alt="Coding" width="270" src="https://newsroom.cisco.com/c/dam/r/newsroom/en/us/migrated-assets/netAcad-camille-stephanie-feature_800x450_thumb_021121_animated-gif-2140879-1-0.gif">
 
 - 🌱 I’m currently learning **React Native and Typescript**
@@ -17,8 +18,9 @@
 
 - 📫 You can reach me on linkedIn &nbsp; [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiaqingxu2011/) &nbsp;  
 
+<br />
 
----
+
 
 ### Languages and Tools
 
