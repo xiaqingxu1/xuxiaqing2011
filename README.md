@@ -55,6 +55,6 @@
 
 ### My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xuxiaqing2011)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xuxiaqing2011&theme=dark)](https://git.io/streak-stats)
 
 
